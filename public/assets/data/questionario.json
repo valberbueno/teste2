@@ -1,0 +1,32 @@
+{
+  "perguntas":
+  [
+    {"IdCategoria": 1, "Pergunta": "Achei difícil me acalmar"},
+    {"IdCategoria": 2, "Pergunta": "Senti minha boca seca"},
+    {"IdCategoria": 3, "Pergunta": "Não consegui vivenciar nenhum sentimento positivo"},
+    {"IdCategoria": 1, "Pergunta": "Tive dificuldade em respirar em alguns momentos (ex. respiração ofegante, falta de ar, sem ter feito nenhum esforço físico)"},
+    {"IdCategoria": 2, "Pergunta": "Achei difícil ter iniciativa para fazer as coisas"},
+    {"IdCategoria": 3, "Pergunta": "Tive a tendência de reagir de forma exagerada às situações"},
+    {"IdCategoria": 1, "Pergunta": "Senti tremores (ex. nas mãos)"},
+    {"IdCategoria": 2, "Pergunta": "Senti que estava sempre nervoso"},
+    {"IdCategoria": 3, "Pergunta": "Preocupei-me com situações em que eu pudesse entrar em pânico e parecesse ridículo (a)"},
+    {"IdCategoria": 1, "Pergunta": "Senti que não tinha nada a desejar"},
+    {"IdCategoria": 2, "Pergunta": "Senti-me agitado"},
+    {"IdCategoria": 3, "Pergunta": "Achei difícil relaxar"},
+    {"IdCategoria": 1, "Pergunta": "Senti-me depressivo (a) e sem ânimo"},
+    {"IdCategoria": 2, "Pergunta": "Fui intolerante com as coisas que me impediam de continuar o que eu estava fazendo"},
+    {"IdCategoria": 3, "Pergunta": "Senti que ia entrar em pânico"},
+    {"IdCategoria": 1, "Pergunta": "Não consegui me entusiasmar com nada"},
+    {"IdCategoria": 2, "Pergunta": "Senti que não tinha valor como pessoa"},
+    {"IdCategoria": 3, "Pergunta": "Senti que estava um pouco emotivo/sensível demais"},
+    {"IdCategoria": 1, "Pergunta": "Sabia que meu coração estava alterado mesmo não tendo feito nenhum esforço físico (ex. aumento da frequência cardíaca, disritmia cardíaca)"},
+    {"IdCategoria": 2, "Pergunta": "Senti medo sem motivo"},
+    {"IdCategoria": 3, "Pergunta": "Senti que a vida não tinha sentido"}
+  ],
+  "categorias":
+  [
+    {"IdCategoria": 1, "Categoria": "Estresse"},
+    {"IdCategoria": 2, "Categoria": "Ansiedade"},
+    {"IdCategoria": 3, "Categoria": "Depressão"}
+  ]
+}

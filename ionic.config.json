@@ -1,0 +1,7 @@
+{
+  "name": "aurora_dass",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
